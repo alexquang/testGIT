@@ -1,1 +1,0 @@
-These provide the best experience with single sign in, multi-factor auth, and integration with pull requests.
